@@ -14,4 +14,3 @@ Das Autorenteam freut sich über Feedback und aktive Mitstreiterinnen und Mitstr
 
 + [Deutsche Version des Leitfadens](./Guideline-IT-Security_DE.md)
 + [Englische Version des Leitfadens](./Guideline-IT-Security_EN.md)
-+ englische und deutsche Version des Leitfadens sind auch als [Excel-Dateien](https://www.johner-institut.de/leitfaden-it-security/) zum schnelleren Filtern und Ausdrucken über das [Johner Institut](https://www.johner-institut.de/leitfaden-it-security/) erhältlich
